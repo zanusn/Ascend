@@ -1,9 +1,9 @@
 const cacheName = "ASCEND_GAMES-ASCEND-1.0.8";
 const contentToCache = [
-    "Build/ASCENDforWeb.loader.js",
-    "Build/ASCENDforWeb.framework.js",
-    "Build/ASCENDforWeb.data",
-    "Build/ASCENDforWeb.wasm",
+    "Build/Ascend.loader.js",
+    "Build/Ascend.framework.js",
+    "Build/Ascend.data",
+    "Build/Ascend.wasm",
     "TemplateData/style.css"
 
 ];
